@@ -6,4 +6,5 @@ TO DO LIST
 - [x] Integer to roman
 - [x] MC Solver (return random abcd)
 - [x] Random Sentence Generator
-- [x] Number Formatting
+- [x] Number Formatting (1,420,690)
+- [ ] Number Formatting (5.3M, 4.2k)
