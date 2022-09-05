@@ -13,7 +13,8 @@ TO DO LIST (F5 VERSION) TROLLOOLOLEd
 - [x] THINK OF SOME CHALLENGE FOR MYSELF!!! 
 - [x] Maskify the String (https://edabit.com/challenge/2MAr9P4TTGooXS8Xa)
 - [x] C*ns*r*d Str*ngs (https://edabit.com/challenge/Wv9ZeXyC32EMfRWGB)
-- [ ] Tweaking Letters (https://edabit.com/challenge/868Q9JmTSAEhZBBrg)
+- [x] Tweaking Letters (https://edabit.com/challenge/868Q9JmTSAEhZBBrg)
+- [ ] N-bonacci Numbers (https://edabit.com/challenge/EkfpmCrKNoMbahwt3)
 
 
 WHO IS STALKING ME
