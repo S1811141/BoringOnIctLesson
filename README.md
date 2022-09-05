@@ -9,5 +9,10 @@ TO DO LIST
 - [x] Number Formatting (1,420,690)
 - [x] Number Formatting (5.3M, 4.2k)
 
+TO DO LIST (F5 VERSION) TROLLOOLOLEd
+- [x] THINK OF SOME CHALLENGE FOR MYSELF!!! 
+- [ ] Maskify the String (https://edabit.com/challenge/2MAr9P4TTGooXS8Xa)
+
+
 WHO IS STALKING ME
 myself.
